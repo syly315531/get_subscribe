@@ -17,7 +17,7 @@
 
 - clash订阅链接：`https://raw.githubusercontent.com/syly315531/get_subscribe/main/subscribe/clash.yml`
 
-- v2ray订阅链接：`https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt`
+- v2ray订阅链接：`https://raw.githubusercontent.com/syly315531/get_subscribe/main/subscribe/v2ray.txt`
 
 ## 📧 更新推送
 
